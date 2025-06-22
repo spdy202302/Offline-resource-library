@@ -15,4 +15,4 @@ OneDrive文件离线库
 
 资源下载：
 
-![image](https://github.com/spdy202302/spdy2023-OneDrive/blob/main/%E4%B8%8B%E8%BD%BD.png)
+![image](https://github.com/spdy202302/Offline-resource-library/blob/main/111.png)
