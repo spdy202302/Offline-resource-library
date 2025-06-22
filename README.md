@@ -13,6 +13,8 @@ OneDrive文件离线库
 # spdy2023-OneDrive
 离线资源库使用方法：
 
+![image](https://github.com/spdy202302/Offline-resource-library/blob/main/333.png)
+
 资源下载：
 
 ![image](https://github.com/spdy202302/Offline-resource-library/blob/main/111.png)
