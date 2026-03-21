@@ -15,7 +15,5 @@ OneDrive文件网页版
 
 ![image](https://github.com/spdy202302/Offline-resource-library/blob/main/333.png)
 
-资源下载：
-
-![image](https://github.com/spdy202302/Offline-resource-library/blob/main/111.png)
+本站不提供资源下载！！！！请前往OneDrive下载资源！
 
